@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Colin</h1>
-<h3 align="center">A passionate highschool student from Canada 🇨🇦</h3>
+<h3 align="center">A First Year Computer Engineer @UWaterloo  🇨🇦</h3>
 
-- 🌱 I’m currently learning **Linux & Cybersecurity**
+- 🌱 I’m currently learning **Cpp app development and Arduino**
 
 - ♥ Have a passion in **Table Tennis, Competitive programing & math**
 
